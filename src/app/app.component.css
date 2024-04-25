@@ -1,0 +1,20 @@
+
+.fixed{
+    color: green;
+    background-color: rgb(165, 165, 42);
+    border: black;
+    margin: 20px;
+    padding: 20px;
+    width: 100px;
+    position: fixed;
+}
+
+.sticky{
+    color: red;
+    background-color: aqua;
+    border: black;
+    margin: 20px;
+    padding: 20px;
+    width: 100px;
+    position: sticky;
+}
