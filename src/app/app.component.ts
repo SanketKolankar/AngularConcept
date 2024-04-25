@@ -10,7 +10,7 @@ import { Router } from '@angular/router';
 
 export class AppComponent {
   title = 'ClearConcept';
-  message = "data want";
+  message = "Data Want";
   userInput = " ";
 
   show(){
