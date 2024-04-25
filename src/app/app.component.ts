@@ -49,7 +49,7 @@ ngDoCheck(){
 }
 
 f(){
-  console.log("button click");
+  console.log("Button Click");
 }
 
 ngOnDestroy(){
