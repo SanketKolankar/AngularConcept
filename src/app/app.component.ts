@@ -61,7 +61,7 @@ ngAfterContentInit(){
 }
 
 ngAfterContentCheck(){
-  console.log("Check View ");
+  console.log("Check View ");//
 }
 
 }
