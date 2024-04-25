@@ -9,7 +9,7 @@ import { Router } from '@angular/router';
 })
 
 export class AppComponent {
-  title = 'ClearConcept';
+  title = 'ClearConceptS';
   message = "Data Want";
   userInput = " ";
 
@@ -61,7 +61,7 @@ ngAfterContentInit(){
 }
 
 ngAfterContentCheck(){
-  console.log("check View ");
+  console.log("Check View ");
 }
 
 }
